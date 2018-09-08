@@ -12,7 +12,9 @@ ShuffleNetV2
 |---src: source codes  
 |---|---main.py: data load, model training and test functions  
 |---|---model.py: ShuffleNetV2 model  
-|---rst: result on the test set  
+|---rst: result on the test set
+## Environment
+Win10, anaconda 1.8.7, python 3.6.5, tensorflow 1.8.
 ##  Description
 The model use the 0.5x weights configure.  
 I trained the model from the scratch on the [Tiny ImageNet dataset](http://tiny-imagenet.herokuapp.com/).  
