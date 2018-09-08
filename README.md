@@ -21,4 +21,4 @@ On the first round, the learning rate was set as 0.5 and tricks such as warm up 
 It trained 150 epochs. The accuracy on the validation set achieved above 80%.  
 On the second round, the learning rate was set as 0.0005 and exponential decay was used.  
 It trained 50 epochs. The accuracy on the validation set achieved about 90%.  
-I tested on the test dataset. But I failed to get the accuracy because the website crashed after I uploaded.
+I tested on the test dataset. But I failed to get the accuracy because the website crashed after I uploaded my result.
